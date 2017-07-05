@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/article/sixth/</loc>
+    <lastmod>2017-06-19T21:04:34-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/article/fifth/</loc>
+    <lastmod>2017-06-19T21:03:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/article/fourth/</loc>
+    <lastmod>2017-06-19T21:03:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/article/third/</loc>
+    <lastmod>2017-06-19T01:18:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/article/second/</loc>
+    <lastmod>2017-06-18T23:59:38-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/article/first/</loc>
+    <lastmod>2017-06-18T23:55:43-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/article/</loc>
+    <lastmod>2017-06-19T21:04:34-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-06-19T21:04:34-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

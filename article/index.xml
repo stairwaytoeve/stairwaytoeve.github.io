@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on s t a i r w a y t o e v e</title>
+    <link>http://example.org/article/</link>
+    <description>Recent content in Articles on s t a i r w a y t o e v e</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Jun 2017 21:04:34 -0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sixth dolor</title>
+      <link>http://example.org/article/sixth/</link>
+      <pubDate>Mon, 19 Jun 2017 21:04:34 -0300</pubDate>
+      
+      <guid>http://example.org/article/sixth/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi dolorum optio voluptate voluptates nemo obcaecati, possimus eveniet doloribus ea suscipit! Aliquid odio aliquam excepturi delectus aut maiores aspernatur beatae deserunt.</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum dolor sit</title>
+      <link>http://example.org/article/fifth/</link>
+      <pubDate>Mon, 19 Jun 2017 21:03:08 -0300</pubDate>
+      
+      <guid>http://example.org/article/fifth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fourth</title>
+      <link>http://example.org/article/fourth/</link>
+      <pubDate>Mon, 19 Jun 2017 21:03:00 -0300</pubDate>
+      
+      <guid>http://example.org/article/fourth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>third</title>
+      <link>http://example.org/article/third/</link>
+      <pubDate>Mon, 19 Jun 2017 01:18:00 -0300</pubDate>
+      
+      <guid>http://example.org/article/third/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere ab unde velit odio, quae officia culpa quo error? Dicta provident, quisquam facere nulla. Nam, placeat! Velit molestiae error, tenetur veniam!</description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>http://example.org/article/second/</link>
+      <pubDate>Sun, 18 Jun 2017 23:59:38 -0300</pubDate>
+      
+      <guid>http://example.org/article/second/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut sit, voluptate voluptates cumque fugit, quo quidem, explicabo dignissimos sed, praesentium est quae obcaecati asperiores dolores rem possimus. Reprehenderit, ipsum deleniti.</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://example.org/article/first/</link>
+      <pubDate>Sun, 18 Jun 2017 23:55:43 -0300</pubDate>
+      
+      <guid>http://example.org/article/first/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, accusantium dolorum dolorem eos optio, vero fuga laboriosam tempora necessitatibus mollitia ut eum officia voluptatem rem culpa magnam ipsam, excepturi eius.</description>
+    </item>
+    
+  </channel>
+</rss>

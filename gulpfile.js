@@ -1,6 +1,6 @@
-var gulp = require('gulp');
+var gulp = require('gulp'); 
 
-var srcPath = './dev/public/*';
+var srcPath = './dev/public/**/*';
 var buildPath = '.';
 
 

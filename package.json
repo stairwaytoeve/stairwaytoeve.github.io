@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/stairwaytoeve/stairwaytoeve.github.io/issues"
   },
-  "homepage": "https://github.com/stairwaytoeve/stairwaytoeve.github.io#readme"
+  "homepage": "https://github.com/stairwaytoeve/stairwaytoeve.github.io#readme",
+  "dependencies": {
+    "jeet": "^7.1.0",
+    "shipit-cli": "^3.0.0",
+    "shipit-deploy": "^2.5.1"
+  }
 }

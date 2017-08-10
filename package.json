@@ -17,7 +17,12 @@
   },
   "homepage": "https://github.com/stairwaytoeve/stairwaytoeve.github.io#readme",
   "dependencies": {
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
     "jeet": "^7.1.0",
+    "node-sass": "^4.5.3",
     "shipit-cli": "^3.0.0",
     "shipit-deploy": "^2.5.1"
   }

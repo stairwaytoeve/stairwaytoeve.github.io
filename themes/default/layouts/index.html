@@ -1,0 +1,40 @@
+{{ partial "header.html" . }}
+<main>
+	<section class="posts">
+		{{- range first 10 .Data.Pages }}
+		<div class="wrapper">
+			<a href="{{ .Permalink }}">
+				<div class="post {{ .Params.template_color }}" style="background-image:url({{ .Params.featured_image }})">
+					<div class="post-title">{{ .Title }}</div>
+				</div>
+			</a>
+		</div>
+		{{- end }}
+	</section>
+	<section class="about">
+		<div class="wrapper">
+			<section class="perfil">
+				<div class="perfil-title">Eve Montalvão</div>
+				<div class="perfil-content">
+					Vinte e dois anos muito bem vividos em São Paulo, cidade pela qual eu sou completamente apaixonada. Sou facilmente manipulável por doces e cerveja gelada. Canceriana e, caso importe, meu ascendente é leão e minha lua é capricórnio, então se tem uma coisa que eu sou nessa vida, essa coisa é contradição. Faço playlists para tudo e imagino várias situações que provavelmente nunca vão acontecer enquanto escuto.
+				</div>
+			</section>
+		</div>
+		<div class="wrapper">
+			<div class="perfil-img"></div>
+		</div>
+		<div class="wrapper">
+			<div class="menu-category">
+				<ul>
+					<li><a href=""><i class="fa fa-lightbulb-o"></i>Random</a></li>
+					<li><a href=""><i class="fa fa-paper-plane"></i>Viagens</a></li>
+					<li><a href=""><i class="fa fa-map-marker"></i>Lugares</a></li>
+					<li><a href=""><i class="fa fa-heart"></i>Dicas</a></li>
+					<li><a href=""><i class="fa fa-commenting"></i>Pessoas</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
+</main>
+{{ partial "footer.html" . -}}

@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+<main>
+	<article class="single">
+		<h5 class="single-title">{{ .Title }}</h5>
+		<div class="single-info">
+			<i class="fa fa-clock-o"></i>{{ .Date.Format "02.01.2006" }}
+		</div>
+		<div class="single-post">
+			{{ .Content }}
+		</div>
+		{{ template "_internal/disqus.html" . }}
+	</article>
+</main>
+{{ partial "comments.html" . }}
+
+{{ partial "footer.html" . -}}
